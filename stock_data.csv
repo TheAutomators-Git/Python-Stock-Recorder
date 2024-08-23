@@ -1,0 +1,5 @@
+ticker,company_name,list_exchange,real_time_share_price,ytd_return,market_cap,profit_margin,ebitda,levered_free_cash_flow,fifty_two_week_high,fifty_two_week_low,share_price_proximity_to_52w_low,pe_ratio,eps,dividend_payer_status,dividend_payer_status_percentage,real_time_annual_dividend,growth_estimate_last,real_time_dividend_yield,growth_estimate_next,aaa_bond_value
+AAPL,Apple Inc. (AAPL),NasdaqGS,224.53,+17.06% ,3.414T,26.44%,25.55 ,86.16B,237.23,164.08,0.26922905625083504,34.12,6.58 ,1.00 (0.45%),0.45%,1.0,11.10%,0.45%,11.60%,4.73
+MSFT,Microsoft Corporation (MSFT),NasdaqGS,415.55,+11.11% ,3.089T,35.96%,23.17 ,56.71B,468.35,309.45,0.25532426904103,35.19,11.81 ,3.00 (0.72%),0.72%,3.0,14.60%,0.72%,16.40%,4.73
+GOOGL,Alphabet Inc. (GOOGL),NasdaqGS,163.8,+17.39% ,2.026T,26.70%,16.92 ,43.99B,191.75,120.21,0.2661172161172162,23.53,6.96 ,0.80 (0.49%),0.49%,0.8,20.50%,0.49%,13.70%,4.73
+LI,Li Auto Inc. (LI),NasdaqGS,21.35,+3.17%,22.501B,8.70%,7.54 ,29.81B,46.44,17.75,0.16861826697892277,14.14,1.51 ,--,N/A,N/A,0.45%,N/A,54.90%,4.73
